@@ -74,8 +74,6 @@ export default function SeatPlan() {
     const total = selected.size * PRICE;
     const selectedList = [...selected].sort();
 
-    console.log(reservationInformation);
-
 
 
     return (

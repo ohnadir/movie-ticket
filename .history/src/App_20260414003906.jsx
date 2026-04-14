@@ -4,5 +4,5 @@ import SeatPlan from "./components/SeatPlan";
 import Ticket from "./components/Ticket";
 
 export default function App() {
-  return <SeatPlan />;
+  return <Ticket />;
 }
